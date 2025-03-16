@@ -16,6 +16,6 @@ Criar um modelo de classificação supervisionada para detecção de câncer de 
 
 * Python, Jupyter Notebook, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Joblib
 
-**Para visualizar o documento**: clique na pasta `projeto` e `modeloML.ipynb`
+**Para visualizar o documento**: clique na pasta `Projeto` e `modeloML.ipynb`
 
 ---
