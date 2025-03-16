@@ -12,4 +12,8 @@ Criar um modelo supervisionado de classificação para detecção de câncer de 
 *  [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 *  [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
+**Linguagem e Bibliotecas**:
+
+* Python, Jupyter Notebook, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Joblib
+  
 ---
