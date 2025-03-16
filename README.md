@@ -1,5 +1,5 @@
 📌 **Objetivo**: 
-Criar um modelo supervisionado de classificação para detecção de câncer de mama através de um conjunto de dados.  
+Criar um modelo de classificação supervisionada para detecção de câncer de mama através de um conjunto de dados.  
 
 ---
 
