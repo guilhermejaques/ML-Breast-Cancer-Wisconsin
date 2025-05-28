@@ -3,7 +3,7 @@ Criar um modelo de classificação supervisionada para detecção de câncer de 
 
 ---
 
-**Sobre o conjunto de dados**: `Breast Cancer Wisconsin` é um dataset conhecido para problemas de classificação e contém informações sobre tumores mamários, com o objetivo de classificar os tumores como benignos (não cancerígenos) ou malignos (cancerígenos) com base em características extraídas das imagens de biópsias. Esse dataset foi coletado por meio de exames de diagnóstico, utilizando a técnica de imagem chamada mamografia".
+**Sobre o conjunto de dados**: "`Breast Cancer Wisconsin` é um dataset conhecido para problemas de classificação e contém informações sobre tumores mamários, com o objetivo de classificar os tumores como benignos (não cancerígenos) ou malignos (cancerígenos) com base em características extraídas das imagens de biópsias. Esse dataset foi coletado por meio de exames de diagnóstico, utilizando a técnica de imagem chamada mamografia".
 
 
 **Créditos e mais informações**: 
